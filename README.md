@@ -3,4 +3,4 @@ Página de repositorio para el Departamento de Tecnología del I.E.S. Santa Mar�
 ## Índice
 1.-Concurso de robótica de la UCLM.
 
-2.-Proyectos aprendizaje Servicio.
+2.-Proyectos aprendizaje Servicio (PaS).

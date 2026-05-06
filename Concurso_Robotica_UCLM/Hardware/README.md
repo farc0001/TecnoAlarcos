@@ -1,4 +1,5 @@
 # HARDWARE DEL ROBOT-VEHÍCULO PARA WRO
+## PRIMERA VERSIÓN
 Diseño electrónico y módulos empleados en el robot tipo coche a emplear en el concurso tipo WRO de la UCLM.
 Listado de componentes Hardware:
 1. ESPCAM.
@@ -14,3 +15,13 @@ Listado de materiales:
 4. 4 x muelles de D4x10.
 5. Resina para impresora 3D, para engranajes.
 6. 1 x varilla roscada de M4 y 30cm de longitud.
+
+## VERSIÓN DEFINITIVA
+El diseño se ha hecho utilizando los materiales que había en el taller de Tecnología del instituto.
+Listado de componentes Hardware:
+1. HuskyLens v2
+2. Tarjeta Micro:bit junto con su shield de expansión
+3. Portapilas de 6 pilas tipo AA.
+4. 2 servos continuos con rueda.
+5. Un servo de posición para la dirección del vehículo.
+6. Bastidor y elementos de la dirección.

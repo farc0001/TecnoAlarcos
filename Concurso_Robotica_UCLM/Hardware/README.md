@@ -19,9 +19,12 @@ Listado de materiales:
 ## VERSIÓN DEFINITIVA
 El diseño se ha hecho utilizando los materiales que había en el taller de Tecnología del instituto.
 Listado de componentes Hardware:
-1. HuskyLens v2
-2. Tarjeta Micro:bit junto con su shield de expansión
-3. Portapilas de 6 pilas tipo AA.
-4. 2 servos continuos con rueda.
-5. Un servo de posición para la dirección del vehículo.
-6. Bastidor y elementos de la dirección.
+1. HuskyLens v2.
+2. Tarjeta Micro:bit junto con su shield de expansión.
+3. Sensor de medida de ultrasonidos HC-SR04
+4. Portapilas de 6 pilas tipo AA.
+5. 1 servo continuo
+6. Ruedas x 5.
+7. Un servo de posición para la dirección del vehículo.
+8. Bastidor y elementos de la dirección.
+9. Bridas de plástico de 5mm de ancho y 2mm de grosor x 10.

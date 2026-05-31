@@ -28,6 +28,24 @@ The chassis is built upon a custom-cut plywood board. This material choice provi
 ---
 All pieces have been cut with a SculpFun S30 with a 5W diode laser at 100% power and a cutting speed of 80mm/min and air assistance. 
 
+|         RIGHT         |           FRONT            |             LEFT            |          REAR             |
+| --------------------- | -------------------------- | --------------------------- | ------------------------- |
+| <img width="696" height="313" alt="image" src="https://github.com/user-attachments/assets/36aa9d9f-ce6f-4e2a-96e9-37297832e079" />
+ | <img width="694" height="308" alt="image" src="https://github.com/user-attachments/assets/c9345c40-2c37-4908-aa45-18e16d6e4385" /> | <img width="713" height="337" alt="image" src="https://github.com/user-attachments/assets/f50e7488-1b95-419f-be6b-38a48f1f42dd" />
+ | <img width="693" height="305" alt="image" src="https://github.com/user-attachments/assets/6660fb8d-c9b7-47fd-a4cf-a276fb64ff4c" /> |
+
+|                       |            UP              |                             |                           |
+| --------------------- | -------------------------- | --------------------------- | ------------------------- |
+| <img width="861" height="587" alt="image" src="https://github.com/user-attachments/assets/591e3c8a-b745-43c4-b298-b927579b61e6" />
+ | <img width="701" height="674" alt="image" src="https://github.com/user-attachments/assets/f91d8bd7-84f2-43ce-a6fd-f03cd3563ed3" />
+ | <img width="834" height="600" alt="image" src="https://github.com/user-attachments/assets/10d917b0-e0a8-4d45-93bf-9031306664d5" />
+ | <img width="792" height="493" alt="image" src="https://github.com/user-attachments/assets/3e2dad86-ad0c-467b-990c-d5be0958f331" />
+ |
+
+ 
+
+
+
 ## 2. Power Architecture, Electronics, and Sensors
 
 The central processing unit of the robot is a **BBC micro:bit** mounted on a Microlog expansion board. The entire system, including the microcontroller, motors, and sensors, is powered by an independent AA and AAA battery bank or alternatively a power bank to ensure stable current draw during motor acceleration.

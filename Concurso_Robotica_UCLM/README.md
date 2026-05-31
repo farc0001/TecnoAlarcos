@@ -27,6 +27,7 @@ The chassis is built upon a custom-cut plywood board. This material choice provi
 
 ---
 All pieces have been cut with a SculpFun S30 with a 5W diode laser at 100% power and a cutting speed of 80mm/min and air assistance. 
+Folder V4
 
 |         RIGHT         |           FRONT            |             LEFT            |          REAR             |
 | --------------------- | -------------------------- | --------------------------- | ------------------------- |

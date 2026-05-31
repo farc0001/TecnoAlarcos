@@ -21,10 +21,13 @@ El diseño se ha hecho utilizando los materiales que había en el taller de Tecn
 Listado de componentes Hardware:
 1. HuskyLens v2.
 2. Tarjeta Micro:bit junto con su shield de expansión.
-3. Sensor de medida de ultrasonidos HC-SR04
+3. Sensor de medida de ultrasonidos HC-SR04 x2
 4. Portapilas de 6 pilas tipo AA.
-5. 1 servo continuo
-6. Ruedas x 5.
-7. Un servo de posición para la dirección del vehículo.
-8. Bastidor y elementos de la dirección.
-9. Bridas de plástico de 5mm de ancho y 2mm de grosor x 10.
+5. Portapilas de 2 pilas tipo AAA.
+6. Power bank recargable.
+7. 1 servo continuo
+8. Ruedas x 4.
+9. Un servo de posición para la dirección del vehículo.
+10. Engrane de 19 dientes módulo 2 x 2
+11. Bastidor y elementos de la dirección.
+12. Bridas de plástico de 5mm de ancho y 2mm de grosor x 10.

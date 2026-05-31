@@ -29,6 +29,15 @@ The chassis is built upon a custom-cut plywood board. This material choice provi
 All pieces have been cut with a SculpFun S30 with a 5W diode laser at 100% power and a cutting speed of 80mm/min and air assistance. 
 Folder V4 (Concurso_Robotica_UCLM/CAD_3D/V4)
 
+All designs were created in TinkerCAD
+
+|       Name    |             Description            |           Image          |
+| --------------| ---------------------------------- | ------------------------ |
+| Engrane.stl   | Transmission gear.                 | <img width="487" height="304" alt="image" src="https://github.com/user-attachments/assets/b34db2f4-33ad-436e-94ea-c36006080217" /> |
+| dire1.stl     | Steering rod.                      | <img width="799" height="267" alt="image" src="https://github.com/user-attachments/assets/c410c488-2f23-4484-a919-aed7a1aafb1f" /> |
+| Copydire1.stl | Steering rod2.                     | <img width="592" height="231" alt="image" src="https://github.com/user-attachments/assets/92e279a1-336a-4e96-8bf4-5a2979db28d9" /> |
+| Chasis.stl    | Chassis.                           | <img width="805" height="569" alt="image" src="https://github.com/user-attachments/assets/b14319dc-e5cc-4c9f-9906-d764e186c7e5" /> |
+
 |         RIGHT         |           FRONT            |             LEFT            |          REAR             |
 | --------------------- | -------------------------- | --------------------------- | ------------------------- |
 | <img width="696" height="313" alt="image" src="https://github.com/user-attachments/assets/36aa9d9f-ce6f-4e2a-96e9-37297832e079" /> | <img width="694" height="308" alt="image" src="https://github.com/user-attachments/assets/c9345c40-2c37-4908-aa45-18e16d6e4385" /> | <img width="713" height="337" alt="image" src="https://github.com/user-attachments/assets/f50e7488-1b95-419f-be6b-38a48f1f42dd" /> | <img width="693" height="305" alt="image" src="https://github.com/user-attachments/assets/6660fb8d-c9b7-47fd-a4cf-a276fb64ff4c" /> |
